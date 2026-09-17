@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/net365manager_test
+
+app:
+  jwt:
+    secret: test-secret-key-for-testing-purposes-only-not-for-production
+    expiration-ms: 3600000
