@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/net365manager
+      uri: mongodb+srv://fabrizionegronquispe_db_user:gxpfVkS6TNSI14zh@cluster0.dlsx6dm.mongodb.net/net365manager?appName=Cluster0
 
 logging:
   level:
